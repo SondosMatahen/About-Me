@@ -5,7 +5,7 @@ alert ( 'Welcom to our websit '+ userName)
 
 var genderG= prompt('Am I a Girl? \n yes/no').toLowerCase();
 if (genderG=='yes'){
-    console.log('You are right')
+    //console.log('You are right')
     alert('You are right')
     }
     else {
@@ -16,11 +16,11 @@ if (genderG=='yes'){
 
 var age= prompt('Am I above 20 years? \n yes/no').toUpperCase();
 if (age=='YES'){
-    console.log('You are right')
+    //console.log('You are right')
     alert('You are right')
     }
 else {
-     console.log('You are wrong')
+     //console.log('You are wrong')
      alert('You are wrong')
     }
 
