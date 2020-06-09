@@ -1,7 +1,22 @@
 
 body {
-    background-color: aqua;
+    background-color:rgb(212, 178, 104);
 }
 h1{
-    text-decoration: burlywood;
+    color: pink;
+}
+ul{
+    height: 50%;
+    width: 50%;
+    margin: 50px;
+    border: solid rgb(15, 6, 141);
+    padding:20px ;
+    color: rgb(241, 68, 97);
+}
+ol{
+    height: 200px;
+    width: 200px;
+    margin: 50px;
+    padding: 20px;
+    border: solid black ;
 }
