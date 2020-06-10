@@ -76,10 +76,12 @@ for (var i=0 ; i<3 ; i++){
         score++;
         break;
     }  
+    else if (userInput<guess){
+        userInput= prompt('it\'s too low');}
     else {
-        userInput= prompt('it\'s too low');
+         userInput= prompt('it\'s not a number');}   
         
-}
+
 }
 
 if(userInput!=guess){
