@@ -9,12 +9,12 @@ function gen (){
 
 var genderG= prompt('Am I a Girl? \n yes/no').toLowerCase();
 if (genderG=='yes'){
-    //console.log('You are right')
+    
     alert('You are right')
     score++;
     }
     else {
-    //console.log('You are wrong')
+    
     alert('You are wrong')
 }
 }
@@ -22,11 +22,11 @@ function age (){
 var age= prompt('Am I above 20 years? \n yes/no').toUpperCase();
 if (age=='YES'){
     score++;
-    //console.log('You are right')
+    
     alert('You are right')
     }
 else {
-     //console.log('You are wrong')
+     
      alert('You are wrong')
     }
 }
@@ -35,11 +35,11 @@ function fri (){
 var friend= prompt('Am I your friend?? \n yes/no').toUpperCase();
 if (friend=='YES'){
     score++;
-    //console.log('You are right')
+    
     alert('You are right')
     }
 else {
-    //console.log('You are wrong')
+    
     alert('You are wrong')
 }
 }
@@ -47,11 +47,11 @@ function bea (){
 var bea= prompt('Am I beautiful ?? \n yes/no').toUpperCase();
 if (bea=='YES'){
     score++;
-    //console.log('You are right')
+    
     alert('You are right')
     }
 else {
-     //console.log('You are wrong')
+     
      alert('You are wrong')
     }
 }
@@ -59,12 +59,12 @@ else {
 function summer (){
 var summer= prompt('Do I like summer?? \n yes/no').toUpperCase();
 if (summer=='NO'){score++;
-    //console.log('You are right')
+    
     alert('You are right')
     }
 else {
     
-     //console.log('You are wrong')
+     
      alert('You are wrong')
     }
 

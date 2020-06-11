@@ -4,6 +4,14 @@ body {
 }
 h1{
     color: pink;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+        
+}
+p{
+    text-decoration: underline;
+    font-size: larger;
 }
 ul{
     height: 50%;
@@ -12,11 +20,13 @@ ul{
     border: solid rgb(15, 6, 141);
     padding:20px ;
     color: rgb(241, 68, 97);
+    
 }
 ol{
     height: 200px;
     width: 200px;
     margin: 50px;
-    padding: 20px;
+    padding: 50px;
     border: solid black ;
+   
 }
